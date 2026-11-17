@@ -8,8 +8,8 @@ from display import init_display, render_mode, show_shutdown
 from data_logger import init_csv, log_measurement
 
 # --- Hardware Pin Configuration (BCM Numbering) ---
-BUTTON_PIN = 27
-TRIG_PIN = 23
+BUTTON_PIN = 26
+TRIG_PIN = 27
 ECHO_PIN = 22
 
 # --- Timing Constants ---
